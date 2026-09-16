@@ -1,0 +1,6 @@
+{
+  "name": "Hemanth Coding Academy",
+  "description": "A modern, beginner-friendly, 100% free coding education platform. Learn coding, practice Python, master DSA, and prepare for technical interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
